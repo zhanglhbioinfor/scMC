@@ -49,6 +49,6 @@ Here we also showcase scMC’s superior performance in detecting context-shared 
 
 
 ## Help
-If you have any problems, comments or suggestions, please contact us at Lihua Zhang (lihuaz1@uci.edu).
+If you have any problems, comments or suggestions, please contact us at Lihua Zhang (zhanglh@whu.edu.cn).
 
 
